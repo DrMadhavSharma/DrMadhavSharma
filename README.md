@@ -1,4 +1,3 @@
-![Banner](./banner.png)
 # 📢 Madhav Sharma | @DrMadhavSharma
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Hey%20there!%20I'm%20Madhav%20Sharma👋&fontSize=40&fontAlignY=40&desc=Welcome%20to%20my%20GitHub!%20🚀&descAlignY=60)
